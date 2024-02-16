@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AMConsole", "AMConsole\AMConsole.csproj", "{D926CDB4-D252-4CBF-B2FD-3039ECD608CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AMApplicationCore", "AMApplicationCore\AMApplicationCore.csproj", "{BBFC55E1-5D64-4711-BE10-1497D841BAB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D926CDB4-D252-4CBF-B2FD-3039ECD608CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D926CDB4-D252-4CBF-B2FD-3039ECD608CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D926CDB4-D252-4CBF-B2FD-3039ECD608CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D926CDB4-D252-4CBF-B2FD-3039ECD608CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBFC55E1-5D64-4711-BE10-1497D841BAB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBFC55E1-5D64-4711-BE10-1497D841BAB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBFC55E1-5D64-4711-BE10-1497D841BAB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBFC55E1-5D64-4711-BE10-1497D841BAB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A73FFA8-507A-47DA-9E6A-0CF7ACC40B70}
+	EndGlobalSection
+EndGlobal
